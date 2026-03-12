@@ -6,4 +6,4 @@
 //
 // Keeping `main.ts` as a thin entry so Deno Deploy can use it as the project entry file.
 
-import "./chat.js";
+import "./chat.ts";
